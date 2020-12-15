@@ -17,6 +17,13 @@
             "name": "Part 2",
             "skipFiles": ["<node_internals>/**"],
             "program": "${workspaceFolder}\\Gerard\\script part 2.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Factory Style",
+            "skipFiles": ["<node_internals>/**"],
+            "program": "${workspaceFolder}\\Gerard\\script factory.js"
         }
     ]
 }

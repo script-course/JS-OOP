@@ -1,8 +1,8 @@
 class Shape {
     /**
      * shape constructor
-     * @param {string} color the color of the circle
-     * @param {string} name the name of the circle
+     * @param {string} color the color of the shape
+     * @param {string} name the name of the shape
      */
     constructor(color, name) {
         this._color = color;
